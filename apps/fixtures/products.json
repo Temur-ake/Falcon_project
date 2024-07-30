@@ -1,0 +1,46 @@
+[
+{
+  "model": "apps.product",
+  "pk": 2,
+  "fields": {
+    "title": "klm;m;l",
+    "short_description": "dfklvmcldf",
+    "price": 1233,
+    "discount_percent": 20,
+    "shipping_cost": 23,
+    "stock": 2,
+    "long_description": "<p>djkflmvdslkfmvlskdfmvjsgnfdvmasdlm;cal,d ckjasldhiaudsjkncm.,asdjefs;kdlcamsdjk;lcnas</p>",
+    "specification": {
+      "a": "b"
+    },
+    "category": 1,
+    "updated_at": "2024-07-15T03:30:25.391Z",
+    "created_at": "2024-07-15T03:30:25.391Z",
+    "tags": [
+      1
+    ]
+  }
+},
+{
+  "model": "apps.product",
+  "pk": 3,
+  "fields": {
+    "title": "Mackbokk Air Pro",
+    "short_description": "awesome",
+    "price": 2000,
+    "discount_percent": 20,
+    "shipping_cost": 30,
+    "stock": 3,
+    "long_description": "<p>dcksms dcmjkldmfc&nbsp;</p>",
+    "specification": {
+      "a": "b"
+    },
+    "category": 1,
+    "updated_at": "2024-07-17T07:14:38.988Z",
+    "created_at": "2024-07-17T07:13:03.642Z",
+    "tags": [
+      2
+    ]
+  }
+}
+]
