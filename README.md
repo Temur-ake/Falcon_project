@@ -2,7 +2,7 @@
 
 **Falcon Project** is a Django-based application designed by Temur-ake. It’s hosted at [temur.falcon-uz.uz](https://temur.falcon-uz.uz).
 
-![Falcon Logo](https://www.google.com/imgres?q=Falcon%20png&imgurl=https%3A%2F%2Fp1.hiclipart.com%2Fpreview%2F351%2F825%2F167%2Ffalcon-logo-thingy-render-png-clipart.jpg&imgrefurl=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-vejlg&docid=LO9XEgnllSzmNM&tbnid=kyIVdtQdM-9gpM&vet=12ahUKEwjd3PinqM-HAxVAExAIHXRFCJEQM3oECFwQAA..i&w=800&h=746&hcb=2&ved=2ahUKEwjd3PinqM-HAxVAExAIHXRFCJEQM3oECFwQAA)
+![Falcon Logo](https://p1.hiclipart.com/preview/351/825/167/falcon-logo-thingy-render-png-clipart.jpg)
 
 ## Table of Contents
 
@@ -92,29 +92,3 @@ To run tests for the application, use:
 
 ```bash
 python manage.py test
-```
-
-## Deployment
-
-For deploying the application to production:
-
-1. **Set `DEBUG` to `False`** in `settings.py`.
-2. **Configure the web server** (e.g., Nginx, Apache) to serve the application.
-3. **Set up a WSGI server** (e.g., Gunicorn, uWSGI) to run the Django application.
-
-## License
-
-Specify the license under which the project is distributed. For example:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please contact:
-
-- **Author**: Temur-ake
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-Feel free to customize the sections to better fit your project’s needs and add any additional information that might be relevant.
